@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Reactjs_Project/static/css/main.e77526f0.chunk.css",
+    "main.js": "/Reactjs_Project/static/js/main.0a6cd19f.chunk.js",
+    "main.js.map": "/Reactjs_Project/static/js/main.0a6cd19f.chunk.js.map",
+    "runtime-main.js": "/Reactjs_Project/static/js/runtime-main.8b2ea200.js",
+    "runtime-main.js.map": "/Reactjs_Project/static/js/runtime-main.8b2ea200.js.map",
+    "static/css/2.07725c36.chunk.css": "/Reactjs_Project/static/css/2.07725c36.chunk.css",
+    "static/js/2.71e70893.chunk.js": "/Reactjs_Project/static/js/2.71e70893.chunk.js",
+    "static/js/2.71e70893.chunk.js.map": "/Reactjs_Project/static/js/2.71e70893.chunk.js.map",
+    "static/js/3.8d003660.chunk.js": "/Reactjs_Project/static/js/3.8d003660.chunk.js",
+    "static/js/3.8d003660.chunk.js.map": "/Reactjs_Project/static/js/3.8d003660.chunk.js.map",
+    "index.html": "/Reactjs_Project/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/Reactjs_Project/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.e77526f0.chunk.css.map": "/Reactjs_Project/static/css/main.e77526f0.chunk.css.map",
+    "static/js/2.71e70893.chunk.js.LICENSE.txt": "/Reactjs_Project/static/js/2.71e70893.chunk.js.LICENSE.txt",
+    "static/media/sap1.34fcf3dc.jpg": "/Reactjs_Project/static/media/sap1.34fcf3dc.jpg",
+    "static/media/sap2.5fe487e3.jpg": "/Reactjs_Project/static/media/sap2.5fe487e3.jpg",
+    "static/media/sapCrm.f0a8b4f3.png": "/Reactjs_Project/static/media/sapCrm.f0a8b4f3.png",
+    "static/media/sapErp.d890b070.jpg": "/Reactjs_Project/static/media/sapErp.d890b070.jpg",
+    "static/media/sapHana.9374510c.jpg": "/Reactjs_Project/static/media/sapHana.9374510c.jpg",
+    "static/media/sapScm.c2a2fb26.jpg": "/Reactjs_Project/static/media/sapScm.c2a2fb26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b2ea200.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.71e70893.chunk.js",
+    "static/css/main.e77526f0.chunk.css",
+    "static/js/main.0a6cd19f.chunk.js"
+  ]
+}
